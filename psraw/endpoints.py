@@ -21,7 +21,7 @@ ENDPOINTS = {
             'limit': int,
             'q': str,
             'sort': sort_type,
-            'subreddit': str
+            'subreddit': str,
             'author': str
         },
         'limit': 500,
